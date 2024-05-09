@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1714830718 source:d:\computer graphics\compiler\main.cpp
+	<iostream>
+	<fstream>
+	<regex>
+	<string>
+	<sstream>
+	<vector>
+
